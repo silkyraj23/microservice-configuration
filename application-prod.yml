@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: USER-MICROSERVICE
 eureka:
   instance:
     prefer-ip-address: true
